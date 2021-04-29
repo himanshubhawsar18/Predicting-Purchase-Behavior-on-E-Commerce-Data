@@ -1,0 +1,2 @@
+# Predicting-Purchase-Behavior-on-E-Commerce-Data
+Here we have to predict the purchasing behaviour of customer on E-Commerce data. We can see graphically visualisation to know, when do customer order the most like day of week, time of the day and the combination of these two and also to search what are the top five product which are Ordered and Re Ordered and see the reorder ratio for each department and at last we have to build a model to predict which previously purchased product will be in a users next order.
